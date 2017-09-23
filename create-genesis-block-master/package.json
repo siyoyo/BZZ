@@ -1,0 +1,15 @@
+{
+  "name": "genesis-block-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-genesis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martijn Buurman",
+  "license": "MIT",
+  "dependencies": {
+    "nxt-crypto": "*",
+    "nxt-utils": "0.0.11"
+  }
+}
